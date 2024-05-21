@@ -46,4 +46,8 @@ public class general {
 		FileUtils.copyFile(src, trt);
 		
 	}
+	@Test
+	public void git()
+	{
+		System.out.println("acer is in good condition ");	}
 }
